@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\CountCharacterFrequency\bin\Debug\net8.0\CountCharacterFrequency.exe
+C:\Users\akemboi\source\repos\CountCharacterFrequency\bin\Debug\net8.0\CountCharacterFrequency.deps.json
+C:\Users\akemboi\source\repos\CountCharacterFrequency\bin\Debug\net8.0\CountCharacterFrequency.runtimeconfig.json
+C:\Users\akemboi\source\repos\CountCharacterFrequency\bin\Debug\net8.0\CountCharacterFrequency.dll
+C:\Users\akemboi\source\repos\CountCharacterFrequency\bin\Debug\net8.0\CountCharacterFrequency.pdb
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.dll
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\refint\CountCharacterFrequency.dll
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.pdb
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\CountCharacterFrequency.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\CountCharacterFrequency\obj\Debug\net8.0\ref\CountCharacterFrequency.dll
